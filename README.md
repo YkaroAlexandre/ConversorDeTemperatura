@@ -1,2 +1,2 @@
 # ConversorDeTemperatura
- Mostrando como converter de grus celsius para outros graus em Java 
+ Mostrando como converter de graus celsius para outros graus em Java 
